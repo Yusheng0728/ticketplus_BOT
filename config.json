@@ -1,0 +1,15 @@
+{
+    "discord_token": "填入 Discord Bot Token",
+    "channel_id": "填入 Discord 頻道 ID",
+    "check_interval": 5,
+    "target_check_delay": 2,
+    "targets": [
+        {
+            "url": "填入 TicketPlus API URL",
+            "sale_url": "填入 TicketPlus 售票頁面 URL",
+            "name": "填入活動名稱",
+            "identifier_type": "填入識別類型",
+            "identifier_value": "填入識別值"
+        }
+    ]
+}
